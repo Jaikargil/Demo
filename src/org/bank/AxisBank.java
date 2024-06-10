@@ -6,7 +6,7 @@ public class AxisBank extends BankInfo{
 	}
 	
 	public void deposit2() {
-       System.out.println("Deposit: 50000");
+       System.out.println("Jai");
 	}
 	
 	public void deposit3() {
